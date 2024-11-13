@@ -1206,6 +1206,82 @@
         "custom_colors_text": "#2E2A39"
       }
     },
+    "testimonials_mjFcqF": {
+      "type": "testimonials",
+      "blocks": {
+        "column_apDekx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1727880696-gempages_523955712020186247-68aef879-16ce-47ec-bdf1-c00638a62e67.webp",
+            "title": "",
+            "text": "",
+            "author": "Patricia Smith"
+          }
+        }
+      },
+      "block_order": [
+        "column_apDekx"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "text": "",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "slider_preview": true,
+        "column_alignment": "center",
+        "show_stars": true,
+        "stars_color": "#ffd700",
+        "show_quotes": true,
+        "quotes_color_scheme": "accent-2",
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39"
+      }
+    },
+    "testimonials_tPjGfr": {
+      "type": "testimonials",
+      "blocks": {
+        "column_THX7mQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1727880597-gempages_523955712020186247-c81c075f-3edf-4ad8-b309-2f278fb131f8.webp",
+            "title": "",
+            "text": "",
+            "author": "Sharon Greenwood"
+          }
+        }
+      },
+      "block_order": [
+        "column_THX7mQ"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "text": "",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "slider_preview": true,
+        "column_alignment": "center",
+        "show_stars": true,
+        "stars_color": "#ffd700",
+        "show_quotes": true,
+        "quotes_color_scheme": "accent-2",
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39"
+      }
+    },
     "rich_text_JV8erH": {
       "type": "rich-text",
       "blocks": {
@@ -1284,6 +1360,8 @@
     "testimonials_EPfEax",
     "testimonials_fkTbji",
     "testimonials_Ub9Hbm",
+    "testimonials_mjFcqF",
+    "testimonials_tPjGfr",
     "rich_text_JV8erH"
   ]
 }
