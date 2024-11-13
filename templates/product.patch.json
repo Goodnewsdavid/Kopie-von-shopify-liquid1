@@ -31,12 +31,10 @@
             "margin_bottom": 0
           }
         },
-        "custom_product_field_xWCbMy": {
-          "type": "custom_product_field",
+        "de244682-4323-4802-b4ba-b79b08e0c71d": {
+          "type": "emoji_benefits",
           "settings": {
-            "field_name": "Reviews",
-            "field_label": "⭐⭐⭐⭐⭐4.98 (1.284 Reviews)",
-            "text_placeholder": "Trusted by over 23,000 satisfied customers",
+            "benefits": "<p>⭐⭐⭐⭐⭐4.98 (1.284 Reviews)</p><p><strong>✅ 8-Hour Overnight Treatment</strong></p><p><strong>✅ First Visible Results in 1 Week</strong></p><p><strong>✅ Only Natural Ingredients</strong></p><p><strong>✅ Recommended by Doctors</strong></p><h3><strong>100% Clinically Tested</strong></h3>",
             "margin_top": 0,
             "margin_bottom": 0
           }
@@ -103,18 +101,9 @@
         },
         "description_3DPGdQ": {
           "type": "description",
-          "disabled": true,
           "settings": {
             "margin_top": 18,
             "margin_bottom": 18
-          }
-        },
-        "de244682-4323-4802-b4ba-b79b08e0c71d": {
-          "type": "emoji_benefits",
-          "settings": {
-            "benefits": "<p><strong>✅ 8-Hour Overnight Treatment</strong></p><p><strong>✅ First Visible Results in 1 Week</strong></p><p><strong>✅ Only Natural Ingredients</strong></p><p><strong>✅ Recommended by Doctors</strong></p><h3><strong>100% Clinically Tested</strong></h3>",
-            "margin_top": 0,
-            "margin_bottom": 0
           }
         },
         "reviews_QU4Kqa": {
@@ -165,30 +154,19 @@
             "margin_top": 0,
             "margin_bottom": 0
           }
-        },
-        "98db29ee-a7dc-429e-8129-bf71131627da": {
-          "type": "payment_badges",
-          "disabled": true,
-          "settings": {
-            "enabled_payment_types": "",
-            "margin_top": 15,
-            "margin_bottom": 15
-          }
         }
       },
       "block_order": [
         "c5728eab-5b1d-44e7-8e74-220cfef92c9b",
         "title",
-        "custom_product_field_xWCbMy",
+        "de244682-4323-4802-b4ba-b79b08e0c71d",
         "price",
         "b2d15a96-0f0a-44d0-a3ae-1a090fa30347",
         "vitals_reviews_stars_r9wmDA",
         "description_3DPGdQ",
-        "de244682-4323-4802-b4ba-b79b08e0c71d",
         "reviews_QU4Kqa",
         "buy_buttons",
-        "icon_with_text_U79YTe",
-        "98db29ee-a7dc-429e-8129-bf71131627da"
+        "icon_with_text_U79YTe"
       ],
       "custom_css": [],
       "settings": {
@@ -1163,9 +1141,9 @@
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39"
+        "custom_colors_text": "#2e2a39"
       }
     },
     "testimonials_Ub9Hbm": {
@@ -1201,9 +1179,9 @@
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39"
+        "custom_colors_text": "#2e2a39"
       }
     },
     "testimonials_mjFcqF": {
@@ -1239,9 +1217,9 @@
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39"
+        "custom_colors_text": "#2e2a39"
       }
     },
     "testimonials_tPjGfr": {
@@ -1277,9 +1255,9 @@
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39"
+        "custom_colors_text": "#2e2a39"
       }
     },
     "rich_text_JV8erH": {
