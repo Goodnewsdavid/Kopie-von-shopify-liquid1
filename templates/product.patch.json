@@ -1097,7 +1097,7 @@
         "column_JL3ifb": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Results.svg",
+            "image": "shopify://shop_images/1727880049-gempages_523955712020186247-05cb5025-7293-4210-b105-84770369d127.webp",
             "title": "",
             "text": "",
             "author_avatar": "shopify://shop_images/pic3.jpg",
@@ -1128,6 +1128,82 @@
         "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
         "custom_colors_text": "#2e2a39"
+      }
+    },
+    "testimonials_fkTbji": {
+      "type": "testimonials",
+      "blocks": {
+        "column_edhrPE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1727880794-gempages_523955712020186247-e513df1c-5faf-4203-856f-0208318531c2_1.webp",
+            "title": "",
+            "text": "",
+            "author": "Anthony Brand"
+          }
+        }
+      },
+      "block_order": [
+        "column_edhrPE"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "text": "",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "slider_preview": true,
+        "column_alignment": "center",
+        "show_stars": true,
+        "stars_color": "#ffd700",
+        "show_quotes": true,
+        "quotes_color_scheme": "accent-2",
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39"
+      }
+    },
+    "testimonials_Ub9Hbm": {
+      "type": "testimonials",
+      "blocks": {
+        "column_rzePBN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1727880666-gempages_523955712020186247-e7a5ca2f-5234-4ed8-bcaf-ae08d12e079c.webp",
+            "title": "",
+            "text": "",
+            "author": "Terry Wilson"
+          }
+        }
+      },
+      "block_order": [
+        "column_rzePBN"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "text": "",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "slider_preview": true,
+        "column_alignment": "center",
+        "show_stars": true,
+        "stars_color": "#ffd700",
+        "show_quotes": true,
+        "quotes_color_scheme": "accent-2",
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39"
       }
     },
     "rich_text_JV8erH": {
@@ -1206,6 +1282,8 @@
     "testimonials_JMhKbf",
     "testimonials_H7GkzV",
     "testimonials_EPfEax",
+    "testimonials_fkTbji",
+    "testimonials_Ub9Hbm",
     "rich_text_JV8erH"
   ]
 }
