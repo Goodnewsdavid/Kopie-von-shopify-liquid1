@@ -136,6 +136,18 @@
             "margin_bottom": 0
           }
         },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "skip_cart": true,
+            "uppercase_text": true,
+            "enable_custom_color": true,
+            "custom_color": "#003153",
+            "margin_top": 0,
+            "margin_bottom": 0
+          }
+        },
         "icon_with_text_U79YTe": {
           "type": "icon-with-text",
           "settings": {
@@ -150,18 +162,6 @@
             "icon_3": "none",
             "image_3": "shopify://shop_images/90-days_6da71b68-8380-4fbe-9394-9158481b5c51.png",
             "heading_3": "Money Back Guarantee",
-            "margin_top": 0,
-            "margin_bottom": 0
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "skip_cart": true,
-            "uppercase_text": true,
-            "enable_custom_color": true,
-            "custom_color": "#003153",
             "margin_top": 0,
             "margin_bottom": 0
           }
@@ -186,8 +186,8 @@
         "description_3DPGdQ",
         "de244682-4323-4802-b4ba-b79b08e0c71d",
         "reviews_QU4Kqa",
-        "icon_with_text_U79YTe",
         "buy_buttons",
+        "icon_with_text_U79YTe",
         "98db29ee-a7dc-429e-8129-bf71131627da"
       ],
       "custom_css": [],
