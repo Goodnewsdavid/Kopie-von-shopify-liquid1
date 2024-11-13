@@ -31,12 +31,18 @@
             "margin_bottom": 0
           }
         },
-        "de244682-4323-4802-b4ba-b79b08e0c71d": {
-          "type": "emoji_benefits",
+        "rating_stars_HbNyfa": {
+          "type": "rating_stars",
           "settings": {
-            "benefits": "<p>⭐⭐⭐⭐⭐4.98 (1.284 Reviews)</p><p><strong>✅ 8-Hour Overnight Treatment</strong></p><p><strong>✅ First Visible Results in 1 Week</strong></p><p><strong>✅ Only Natural Ingredients</strong></p><p><strong>✅ Recommended by Doctors</strong></p><h3><strong>100% Clinically Tested</strong></h3>",
-            "margin_top": 0,
-            "margin_bottom": 0
+            "rating": 4.9,
+            "star_color": "#ffcc00",
+            "bg_stars_style": "full",
+            "bg_star_color": "#ececec",
+            "label": "4.98 (1.301 Reviews)",
+            "size": 16,
+            "alignment": "flex-start",
+            "margin_top": 15,
+            "margin_bottom": 15
           }
         },
         "price": {
@@ -46,6 +52,14 @@
             "price_color": "accent-1",
             "compare_price_color": "accent-1",
             "hide_sale_badge": true,
+            "margin_top": 0,
+            "margin_bottom": 0
+          }
+        },
+        "de244682-4323-4802-b4ba-b79b08e0c71d": {
+          "type": "emoji_benefits",
+          "settings": {
+            "benefits": "<p><strong>✅ 8-Hour Overnight Treatment</strong></p><p><strong>✅ First Visible Results in 1 Week</strong></p><p><strong>✅ Only Natural Ingredients</strong></p><p><strong>✅ Recommended by Doctors</strong></p><h3><strong>100% Clinically Tested</strong></h3>",
             "margin_top": 0,
             "margin_bottom": 0
           }
@@ -109,7 +123,7 @@
         "reviews_QU4Kqa": {
           "type": "reviews",
           "settings": {
-            "display_stars": true,
+            "display_stars": false,
             "star_color": "#003153",
             "avatar_alignment": "top",
             "author_1": "Dr. Sarah Thompson, Board-Certified Dermatologist",
@@ -159,8 +173,9 @@
       "block_order": [
         "c5728eab-5b1d-44e7-8e74-220cfef92c9b",
         "title",
-        "de244682-4323-4802-b4ba-b79b08e0c71d",
+        "rating_stars_HbNyfa",
         "price",
+        "de244682-4323-4802-b4ba-b79b08e0c71d",
         "b2d15a96-0f0a-44d0-a3ae-1a090fa30347",
         "vitals_reviews_stars_r9wmDA",
         "description_3DPGdQ",
