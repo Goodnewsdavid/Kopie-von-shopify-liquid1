@@ -31,8 +31,13 @@
             "margin_bottom": 0
           }
         },
+        "vitals_reviews_stars_r9wmDA": {
+          "type": "shopify://apps/vitals/blocks/reviews-stars/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
+        },
         "rating_stars_HbNyfa": {
           "type": "rating_stars",
+          "disabled": true,
           "settings": {
             "rating": 4.9,
             "star_color": "#ffcc00",
@@ -109,10 +114,6 @@
             "margin_bottom": 15
           }
         },
-        "vitals_reviews_stars_r9wmDA": {
-          "type": "shopify://apps/vitals/blocks/reviews-stars/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {}
-        },
         "description_3DPGdQ": {
           "type": "description",
           "settings": {
@@ -173,11 +174,11 @@
       "block_order": [
         "c5728eab-5b1d-44e7-8e74-220cfef92c9b",
         "title",
+        "vitals_reviews_stars_r9wmDA",
         "rating_stars_HbNyfa",
         "price",
         "de244682-4323-4802-b4ba-b79b08e0c71d",
         "b2d15a96-0f0a-44d0-a3ae-1a090fa30347",
-        "vitals_reviews_stars_r9wmDA",
         "description_3DPGdQ",
         "reviews_QU4Kqa",
         "buy_buttons",
